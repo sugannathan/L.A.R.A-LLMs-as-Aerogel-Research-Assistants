@@ -1,0 +1,26 @@
+# Include all base requirements
+-r requirements.txt
+
+# Development Tools
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+isort>=5.10.0
+flake8>=4.0.0
+mypy>=0.950
+pre-commit>=2.17.0
+
+# Documentation
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
+myst-parser>=0.17.0
+
+# Jupyter and Analysis
+jupyter>=1.0.0
+jupyterlab>=3.4.0
+ipykernel>=6.0.0
+ipywidgets>=7.7.0
+
+# Profiling and Debugging
+memory-profiler>=0.60.0
+line-profiler>=3.5.0
