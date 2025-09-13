@@ -344,8 +344,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-**Made with ❤️ for the materials science community**
+**Made with ❤️ for the aerogel community**
 
-Copyright 2025 Sugan Kanagasenthinathan, Prakul Pandit, Hemangi Patel
-German Aerospace Center, Cologne
+- Copyright 2025 Sugan Kanagasenthinathan, Prakul Pandit, Hemangi Patel
+- German Aerospace Center, Cologne
 
