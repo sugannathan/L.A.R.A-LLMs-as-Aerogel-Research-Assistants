@@ -8,6 +8,12 @@
 
 L.A.R.A (LLMs as Aerogel Research Assistants) is a specialized AI framework for carbon aerogel research, combining fine-tuned language models with knowledge graphs for hypothesis generation and inverse design of aerogel materials.
 
+
+This repository contains **Module 2** of a comprehensive AI-driven aerogel research system. This module focuses on fine-tuned language model development and deployment for advanced materials science applications, specifically targeting aerogel synthesis, characterization, and design optimization.
+
+> **Note**: This is part of a larger research framework. **Module 1** (containing RAG queries, simulation tool calling, and other computational modules) is **not included in this repository** as it contains proprietary intellectual property and trade secrets.
+
+
 ## 🚀 Features
 
 - **🧠 Fine-tuned LLaMat Model**: Specialized for carbon aerogel synthesis and materials science
