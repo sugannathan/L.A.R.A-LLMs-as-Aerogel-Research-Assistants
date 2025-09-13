@@ -6,7 +6,7 @@
 [![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.30+-orange.svg)](https://huggingface.co/transformers/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-L.A.R.A (LLMs as Aerogel Research Assistants) is a specialized AI framework for carbon aerogel research, combining fine-tuned language models with knowledge graphs for hypothesis generation and inverse design of aerogel materials.
+L.A.R.A (LLMs as Aerogel Research Assistants) is a specialized AI framework for  aerogel research, combining fine-tuned language models with knowledge graphs for hypothesis generation and inverse design of aerogel materials.
 
 
 This repository contains **Module 2** of a comprehensive AI-driven aerogel research system. This module focuses on fine-tuned language model development and deployment for advanced materials science applications, specifically targeting aerogel synthesis, characterization, and design optimization.
@@ -16,10 +16,10 @@ This repository contains **Module 2** of a comprehensive AI-driven aerogel resea
 
 ## 🚀 Features
 
-- **🧠 Fine-tuned LLaMat Model**: Specialized for carbon aerogel synthesis and materials science
+- **🧠 Fine-tuned LLaMat Model**: Specialized for aerogel synthesis and materials science
 - **🔬 Hypothesis Generation**: AI-powered scientific hypothesis generation for aerogel research
 - **🎯 Inverse Design**: Design synthesis routes from target material properties
-- **🧪 Molecular Dynamics Integration**: Run MD simulations for materials discovery
+- **🧪 Molecular Dynamics Integration**: Run simulations for materials discovery
 - **📚 Literature Search**: RAG-based search through scientific papers
 - **🖼️ Image Analysis**: Particle segmentation and radius analysis
 - **🗃️ Knowledge Graph**: Enhanced MatKG interface for materials science
@@ -184,7 +184,7 @@ response = run_with_langchain_agent(
 
 ```
 L.A.R.A Framework
-├── Fine-tuned LLaMat Model (Carbon Aerogel Specialist)
+├── Fine-tuned LLaMat Model (Aerogel Specialist)
 ├── Knowledge Graph Interface (MatKG)
 ├── Hypothesis Generation Engine
 ├── Inverse Design Engine
@@ -215,7 +215,7 @@ L.A.R.A Framework
 | `tools/knowledge_generation.py` | L.A.R.A model inference | Tool |
 | `tools/rag_search.py` | Literature search | Tool |
 | `tools/radius_segmentation.py` | Image analysis | Tool |
-| `tools/simulation_tool.py` | MD simulation runner | Tool |
+| `tools/simulation_tool.py` | simulation runner | Tool |
 
 ### Tool System
 
@@ -224,7 +224,7 @@ L.A.R.A includes specialized tools for different research tasks:
 - **Knowledge Generation**: Use fine-tuned L.A.R.A model for synthesis advice
 - **RAG Search**: Search scientific literature (arXiv, local papers)
 - **Image Segmentation**: Analyze microscopy images for particle sizing
-- **MD Simulation**: Run molecular dynamics with LAMMPS/AMS/GULP
+- **Simulation**: Run molecular dynamics with LAMMPS/AMS/GULP
 - **Registry System**: Automatic tool discovery and orchestration
 
 ## 🖥️ HPC Usage
@@ -258,7 +258,7 @@ python finetune_llamat.py
 
 ### Supported Research Areas
 
-- **Carbon Aerogel Synthesis**: Sol-gel processes, pyrolysis optimization
+- ** Aerogel Synthesis**: Sol-gel processes, pyrolysis optimization
 - **Property Optimization**: Porosity, conductivity, surface area
 - **Inverse Design**: Target property → synthesis route mapping
 - **Hypothesis Generation**: Novel research directions and mechanisms
@@ -270,13 +270,13 @@ python finetune_llamat.py
 1. **Literature Review**: Use RAG search to find relevant papers
 2. **Hypothesis Generation**: Generate research questions using L.A.R.A
 3. **Synthesis Planning**: Design routes using inverse design engine
-4. **Simulation**: Run MD simulations to validate approaches
+4. **Simulation**: Run simulations to validate approaches
 5. **Analysis**: Analyze experimental results with image tools
 
 ## 📊 Performance Metrics
 
 ### Model Performance
-- **Fine-tuning Dataset**: 1,000+ carbon aerogel research examples
+- **Fine-tuning Dataset**: 1,000+  aerogel research examples
 - **Training Time**: ~4-8 hours on V100 GPU
 - **Model Size**: 7B parameters (LoRA adapters: ~100MB)
 - **Inference Speed**: ~2-5 tokens/second on RTX 3090
