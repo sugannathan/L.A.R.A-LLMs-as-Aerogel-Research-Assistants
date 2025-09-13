@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.30+-orange.svg)](https://huggingface.co/transformers/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 L.A.R.A (LLMs as Aerogel Research Assistants) is a specialized AI framework for  aerogel research, combining fine-tuned language models with knowledge graphs for hypothesis generation and inverse design of aerogel materials.
 
@@ -340,7 +340,8 @@ If you use L.A.R.A in your research, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
 ## 🙏 Acknowledgments
 
@@ -368,3 +369,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ for the materials science community**
+
+Copyright 2025 Sugan Kanagasenthinathan, Prakul Pandit, Hemangi Patel
+German Aerospace Center, Cologne
+
