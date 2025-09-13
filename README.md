@@ -316,28 +316,6 @@ pre-commit install
 python -m pytest tests/
 ```
 
-### Submission Guidelines
-
-1. **Code Style**: Follow PEP 8 and use black formatting
-2. **Documentation**: Add docstrings and type hints
-3. **Testing**: Include tests for new features
-4. **Commit Messages**: Use conventional commit format
-5. **Pull Requests**: Provide clear descriptions and examples
-
-## 📚 Citation
-
-If you use L.A.R.A in your research, please cite:
-
-```bibtex
-@software{lara2024,
-  title={L.A.R.A: LLMs as Aerogel Research Assistants},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/username/lara-aerogel-research},
-  note={Software framework for AI-assisted carbon aerogel research}
-}
-```
-
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
@@ -352,9 +330,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/username/lara-aerogel-research/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/username/lara-aerogel-research/discussions)
-- **Email**: your-email@university.edu
+- **Email**: sugan.kanagasenthinathan@dlr.de, prakul.pandit@dlr.de, hemangi.patel@dlr.de
 
 ## 🗓️ Changelog
 
