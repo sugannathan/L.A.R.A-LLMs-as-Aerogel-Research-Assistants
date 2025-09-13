@@ -19,7 +19,7 @@ This repository contains **Module 2** of a comprehensive AI-driven aerogel resea
 - **🧠 Fine-tuned LLaMat Model**: Specialized for aerogel synthesis and materials science
 - **🔬 Hypothesis Generation**: AI-powered scientific hypothesis generation for aerogel research
 - **🎯 Inverse Design**: Design synthesis routes from target material properties
-- **🧪 Molecular Dynamics Integration**: Run simulations for materials discovery
+- **🧪 Molecular Dynamics Integration**: Run moleecular simulations for materials discovery
 - **📚 Literature Search**: RAG-based search through scientific papers
 - **🖼️ Image Analysis**: Particle segmentation and radius analysis
 - **🗃️ Knowledge Graph**: Enhanced MatKG interface for materials science
