@@ -645,7 +645,7 @@ class LARAAdvancedSystem:
     """Enhanced system with both hypothesis generation and inverse design capabilities"""
     
     def __init__(self, 
-                 model_path: str = "/home/kana_su/Scripts/llamat_finetuned_complete",
+                 model_path: str = "./finetuned_llamat",
                  kg_data_path: Optional[str] = None,
                  evaluator_model: str = "gpt-3.5-turbo"):
         
